@@ -1,0 +1,14 @@
+﻿Sensor/Actuator,Power,Analog,Digital,Features
+ADXL335,"3.3V, 5V",Yes,No,Accelerometer
+BMP280,"3.3V, 5V",No,Yes,"I2C, Pressure, SPI, Temperature"
+DHT11,5V,No,Yes,"1-Wire, Humidity, Temperature"
+GY-91,"3.3V, 5V",No,Yes,"Accelerometer, Dual Sensor, Gyroscope, I2C, Magnetometer, Pressure, SPI, Temperature"
+K845042 Step Motor,5V,No,Yes,Step Motor
+LM35 TO-92,4-30V,Yes,No,Temperature
+LM393 Hall Effect Sensor,5V,Yes,Yes,Hall Effect
+LM393 Infrared Sensor,5V,Yes,Yes,Infrared
+MPU9250,"3.3V, 5V",No,Yes,"Accelerometer, Gyroscope, I2C, Magnetometer, SPI"
+MPX4100A,5V,Yes,No,Pressure
+Si7021,5V,No,Yes,"Humidity, I2C, Temperature"
+VEML6075,"3.3V, 5V",No,Yes,"I2C, UV"
+VL53LX,,No,Yes,"I2C, Time-of-Flight ranging"
